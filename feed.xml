@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://coderethinked.com/"/>
-  <updated>2018-10-04T01:08:47.958Z</updated>
+  <updated>2018-10-04T01:39:00.022Z</updated>
   <id>https://coderethinked.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jumpstart</title>
+    <link href="https://coderethinked.com/Jumpstart/"/>
+    <id>https://coderethinked.com/Jumpstart/</id>
+    <published>2018-10-04T01:38:46.000Z</published>
+    <updated>2018-10-04T01:39:00.022Z</updated>
+    
+    <content type="html"><![CDATA[<p>a new jump start file</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;a new jump start file&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="jump" scheme="https://coderethinked.com/tags/jump/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
