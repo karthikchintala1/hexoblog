@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coderethinked.com/hexoblog/all-archives/index.html</loc>
+    
+    <lastmod>2018-10-06T02:35:32.297Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coderethinked.com/hexoblog/all-tags/index.html</loc>
+    
+    <lastmod>2018-10-06T02:35:26.233Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coderethinked.com/hexoblog/all-categories/index.html</loc>
+    
+    <lastmod>2018-10-06T02:19:51.990Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://coderethinked.com/hexoblog/Jumpstart/</loc>
     
-    <lastmod>2018-10-04T01:39:00.022Z</lastmod>
+    <lastmod>2018-10-06T01:44:07.211Z</lastmod>
     
   </url>
   
@@ -19,27 +40,6 @@
     <loc>https://coderethinked.com/hexoblog/hello-world/</loc>
     
     <lastmod>2018-10-04T01:08:47.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coderethinked.com/hexoblog/all-archives/index.html</loc>
-    
-    <lastmod>2018-10-04T00:55:17.900Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coderethinked.com/hexoblog/all-tags/index.html</loc>
-    
-    <lastmod>2018-10-04T00:55:07.768Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coderethinked.com/hexoblog/all-categories/index.html</loc>
-    
-    <lastmod>2018-10-04T00:54:46.039Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/hexoblog/feed.xml" rel="self"/>
   
   <link href="https://coderethinked.com/hexoblog/"/>
-  <updated>2018-10-04T01:39:00.022Z</updated>
+  <updated>2018-10-06T01:44:07.211Z</updated>
   <id>https://coderethinked.com/hexoblog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://coderethinked.com/hexoblog/Jumpstart/"/>
     <id>https://coderethinked.com/hexoblog/Jumpstart/</id>
     <published>2018-10-04T01:38:46.000Z</published>
-    <updated>2018-10-04T01:39:00.022Z</updated>
+    <updated>2018-10-06T01:44:07.211Z</updated>
     
     <content type="html"><![CDATA[<p>a new jump start file</p>]]></content>
     
@@ -35,8 +35,14 @@
     
     </summary>
     
+      <category term="New" scheme="https://coderethinked.com/hexoblog/categories/New/"/>
+    
+      <category term="Fresh" scheme="https://coderethinked.com/hexoblog/categories/New/Fresh/"/>
+    
     
       <category term="jump" scheme="https://coderethinked.com/hexoblog/tags/jump/"/>
+    
+      <category term="start" scheme="https://coderethinked.com/hexoblog/tags/start/"/>
     
   </entry>
   
